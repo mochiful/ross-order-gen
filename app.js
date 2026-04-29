@@ -295,8 +295,8 @@ function exportPrint() {
   .hdr-table td { border:1px solid #333; padding:5px 10px; font-weight:bold; }
   .hdr-table .center { text-align:center; font-size:13px; }
   table.lines { width:100%; border-collapse:collapse; }
-  table.lines th { border:1px solid #aaa; padding:5px 4px; background:#f5f5f5; font-size:10px; text-transform:uppercase; letter-spacing:.04em; text-align:center; vertical-align:middle; white-space:nowrap; }
-  table.lines td { border:1px solid #ddd; padding:3px 4px; vertical-align:middle; text-align:center; }
+  table.lines th { border:1px solid #111; padding:5px 4px; background:#f5f5f5; font-size:10px; text-transform:uppercase; letter-spacing:.04em; text-align:center; vertical-align:middle; white-space:nowrap; }
+  table.lines td { border:1px solid #111; padding:3px 4px; vertical-align:middle; text-align:center; }
   .col-wt  { width:44px; }
   .col-img { width:54px; padding:2px !important; }
   .col-vs  { width:68px; }
