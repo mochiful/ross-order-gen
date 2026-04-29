@@ -1,12 +1,24 @@
 # Ross Metals — Order Generator
 
-A single-file HTML tool for generating, exporting, and archiving jewelry purchase orders.
+A browser-based tool for generating, exporting, and archiving jewelry purchase orders.
+
+---
+
+## Files
+
+```
+ross-order-gen/
+├── ross-order-generator.html   — markup
+├── styles.css                  — all styles
+├── app.js                      — all logic
+└── README.md
+```
 
 ---
 
 ## Usage
 
-Open `ross-order-generator.html` directly in any browser. No server or install required.
+Open `ross-order-generator.html` in any browser. No server or install required. Keep all three files in the same folder.
 
 ---
 
